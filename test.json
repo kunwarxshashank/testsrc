@@ -9467,15 +9467,7 @@
 "Url": "https://madplay.live/player/play/index.php?https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8",
 "Type": "voot"
 },
-{
-"id": "548",
-"group": "Kids",
-"language": "English",
-"Poster": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",
-"Title": "Nickelodeon Jr",
-"Url": "https://madplay.live/player/play/index.php?https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8",
-"Type": "voot"
-},
+
 {
 "id": "12209",
 "group": "Kids",
@@ -9709,10 +9701,10 @@
     "Type": "tataplay"
   },
   {
+    "Url": "https://madplay.live/hls/tata/play.php?id=40",
     "Title": "&Flix HD",
     "genre": "Movies",
     "Poster": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png",
-    "Url": "https://madplay.live/hls/tata/play.php?id=40",
     "Type": "tataplay"
   },
   {
