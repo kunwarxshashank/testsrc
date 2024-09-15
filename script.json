@@ -8766,5 +8766,137 @@
     "Poster": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png",
     "Type": "zee",
     "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8"
+  },
+  {
+    "Title": "SONY AATHz",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8"
+  },
+  {
+    "Title": "SONY BBC EARTH",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8"
+  },
+  {
+    "Title": "SONY HD",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8"
+  },
+  {
+    "Title": "SONY MARATHI",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8"
+  },
+  {
+    "Title": "SONY MAX HD",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8"
+  },
+  {
+    "Title": "SONY MAX2",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8"
+  },
+  {
+    "Title": "SONY MAX",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8"
+  },
+  {
+    "Title": "SONY PAL",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8"
+  },
+  {
+    "Title": "SONY PIX HD",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8"
+  },
+  {
+    "Title": "SONY SAB HD",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8"
+  },
+  {
+    "Title": "SONY SIX HD",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8"
+  },
+  {
+    "Title": "SONY SIX",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8"
+  },
+  {
+    "Title": "SONY TEN 1",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8"
+  },
+  {
+    "Title": "SONY TEN 1 HD",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8"
+  },
+  {
+    "Title": "SONY TEN 2 HD",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8"
+  },
+  {
+    "Title": "SONY TEN 2",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8"
+  },
+  {
+    "Title": "SONY TEN 3 HD",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8"
+  },
+  {
+    "Title": "SONY TEN 3",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8"
+  },
+  {
+    "Title": "SONY TEN 4 HD",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8"
+  },
+  {
+    "Title": "SONY TEN 4",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8"
+  },
+  {
+    "Title": "SONY WAH",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8"
+  },
+  {
+    "Title": "SONY YAY",
+    "Poster": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
+    "Type": "sonyliv",
+    "Url": "https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8"
   }
 ]
