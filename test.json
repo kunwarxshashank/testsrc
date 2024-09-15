@@ -7,13 +7,14 @@
     "Poster": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
     "Type": "jiotv"
   },
+  
   {
     "Url": "https://livetv.rogplay.site/jiotv/app/details.php?id=167",
     "Title": "Zee TV HD",
     "group-title": "Entertainment",
     "language": "Hindi",
     "Poster": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
-    "Type": "jiotv"
+    "Type": "zee"
   },
   {
     "Url": "https://livetv.rogplay.site/jiotv/app/details.php?id=472",
