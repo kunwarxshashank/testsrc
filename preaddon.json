@@ -1,18 +1,16 @@
 [
-
   {
     "title": "ROG SPORTS",
     "logo": "https://madstream.one/m3uplaylist/logos/rogsports.png",
     "url": "https://madstream.one/m3uplaylist/rogsports.php",
     "type": "movies",
-    "description": "to wait for their existence Hello world how are you have",
+    "description": "to wait for their existence Hello world how are you have"
   },
   {
     "title": "FANCODE LIVE",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo_5soIRaxVoAoD4lGAE29dUglNKUXYH1T-zQ2-x9LAkkcDExf53j0THZf&s=10",
     "url": "https://madstream.one/m3uplaylist/fancode.php",
     "type": "movies",
-    "description": "to wait for their existence Hello world how are you have",
+    "description": "OK"
   }
-
 ]
