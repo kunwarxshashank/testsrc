@@ -1,0 +1,17 @@
+
+  {
+    "title": "LOK SPORTS",
+    "logo": "https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg",
+    "url": "https://madstream.one/m3uplaylist/rogsports.php",
+    "type": "movies",
+    "version": "1.0",
+    "description": "Full HD Sports Liveevents and streams watch for free."
+  },
+  {
+    "title": "DAMCODE LIVE",
+    "logo": "https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg",
+    "url": "https://madstream.one/m3uplaylist/fancode.php",
+    "type": "movies",
+    "version": "1.2",
+    "description": "Watch All Fancode Events in HD Sports and streams watch for free."
+  }
