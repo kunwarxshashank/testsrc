@@ -1,15 +1,15 @@
 [
   {
-    "title": "LOK SPORTS",
-    "logo": "https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg",
+    "title": "TATAPLAY",
+    "logo": "https://etimg.etb2bimg.com/photo/89134438.cms",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/testsrc/refs/heads/main/sample.m3u",
     "type": "movies",
     "version": "1.0",
     "description": "Full HD Sports Liveevents and streams watch for free."
   },
   {
-    "title": "DAMCODE LIVE",
-    "logo": "https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg",
+    "title": "NETFLIX",
+    "logo": "https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5..v1582751026.png",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/testsrc/refs/heads/main/script.json",
     "type": "movies",
     "version": "1.2",
