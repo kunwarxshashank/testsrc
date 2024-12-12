@@ -12,7 +12,7 @@ https://cdn.bitmovin.com/content/assets/art-of-motion_drm/mpds/11331.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png" tvg-chno="7" group-title="Sony LIV ",subtitle
-http://sample.vodobox.com/planete_interdite/planete_interdite_alternate.m3u8
+https://server15700.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15700coll2/15.mp4/byte/json
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PAL-New-Logo.png" tvg-chno="8" group-title="Sony LIV ",Sony pal HD 
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
