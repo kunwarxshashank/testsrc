@@ -1,9 +1,9 @@
 [
   {
-    "title": "TATAPLAY BINGE",
-    "logo": "https://i.ytimg.com/vi/PJFlUDNXEvg/maxresdefault.jpg",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/testsrc/refs/heads/main/sample.m3u",
-    "type": "movies",
+    "title": "Hindi Movie",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2R33HPdHU48JiDxvUrY-exKZQCjAR3xIC4A&s",
+    "url": "https://rogplay.site/api/hindimovie?page=1",
+    "type": "movie",
     "version": "1.0",
     "description": "Full HD Sports Liveevents and streams watch for free."
   },
@@ -11,8 +11,16 @@
     "title": "NETFLIX",
     "logo": "https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5..v1582751026.png",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/testsrc/refs/heads/main/script.json",
-    "type": "movies",
+    "type": "tv",
     "version": "1.0",
     "description": "Watch All Fancode Events in HD Sports and streams watch for free."
+  },
+  {
+    "title": "TATAPLAY BINGE",
+    "logo": "https://i.ytimg.com/vi/PJFlUDNXEvg/maxresdefault.jpg",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/testsrc/refs/heads/main/sample.m3u",
+    "type": "tv",
+    "version": "1.0",
+    "description": "Full HD Sports Liveevents and streams watch for free."
   }
 ]
