@@ -10,7 +10,7 @@
   {
     "title": "Hindi Movie",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkTIEZVtUhpkvLySulw6BQBB5a8vel8LhfuA&s",
-    "url": "https://rogplay.site/api/hindimovie?page=1",
+    "url": "https://rogplay.site/api/hindimovie",
     "type": "movie",
     "version": "1.0",
     "description": "Hindi Movies play for freee"
