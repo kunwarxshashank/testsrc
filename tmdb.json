@@ -1,5 +1,4 @@
-[
-    {
+ {
       tvurl: `https://rogplay.site/api/rogflix/series?id=${tmdb}&season=${season}&episode=${episode}`,
       movieurl: `https://rogplay.site/api/rogflix/movies?id=${tmdb}`,
       title: "title",
@@ -18,4 +17,3 @@
       origin: "",
     }
 
-  ]
