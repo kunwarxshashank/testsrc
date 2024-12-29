@@ -1,12 +1,12 @@
 [ 
  {
-      tvurl: "https://rogplay.site/api/rogflix/series?id=${tmdb}&season=${season}&episode=${episode}",
-      movieurl: "https://rogplay.site/api/rogflix/movies?id=${tmdb}",
-      title: "title",
-      url: "file",
-      id: "id",
-      referer: "https://example.com/",
-      origin: "",
+      "tvurl": "https://rogplay.site/api/rogflix/series?id=${tmdb}&season=${season}&episode=${episode}",
+      "movieurl": "https://rogplay.site/api/rogflix/movies?id=${tmdb}",
+      "title": "title",
+      "url": "file",
+      "id": "id",
+      "referer": "https://example.com/",
+      "origin": "",
     }
 
 ]
