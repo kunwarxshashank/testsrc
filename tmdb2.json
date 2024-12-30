@@ -5,7 +5,9 @@
       "title": "title",
       "url": "file",
       "id": "id",
-      "referer": "https://example.com/",
-      "origin": ""
+      "headers": {
+       "referer": "https://example.com",
+      }
+       
     }
 ]
