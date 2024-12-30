@@ -4,6 +4,11 @@
       "movieurl": "https://rogplay.site/api/rogflix/movies?id=${tmdb}",
       "title": "title",
       "url": "file",
-      "id": "id",       
+      "id": "id",
+      "headers": {
+        "referer": "https://example.com/",
+        "origin": "https://origin.com/",
+        "api_key": "1234xdsdhs"
+      }
   }
 ]
