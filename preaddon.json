@@ -2,13 +2,6 @@
   {
     "title": "TMDB CINEMA",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVAAFAlzWJHJmdm9uVmdddhc8MWbYxB2r0aQ&s",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/testsrc/refs/heads/main/tmdb.json",
-    "type": "cinema",
-    "description": "to wait for their existence Hello world how are you have"
-  },
-  {
-    "title": "TMDB 2",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVAAFAlzWJHJmdm9uVmdddhc8MWbYxB2r0aQ&s",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/testsrc/refs/heads/main/tmdb2.json",
     "type": "cinema",
     "description": "to wait for their existence Hello world how are you have"
