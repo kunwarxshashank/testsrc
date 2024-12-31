@@ -687,19 +687,19 @@
     "Title": "Star Sports 1 HD",
     "Poster": "https://i.postimg.cc/QM22x0Qj/Star-Sports-1-HD.png",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=starhindi&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=starhindi&e=.m3u8"
   },
   {
     "Title": "Star Sports 1 Hindi HD",
     "Poster": "https://i.postimg.cc/MZbCq0v8/Star-Sports-1-HD-Hindi.png",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=starhindi&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=starhindi&e=.m3u8"
   },
   {
     "Title": "Sky Sports Cricket",
     "Poster": "https://i.postimg.cc/13TTJJYD/Sky-Sports-Cricket.png",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=skyscric&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=skyscric&e=.m3u8"
   },
   {
     "Title": "A Sports HD",
@@ -711,7 +711,7 @@
     "Title": "Sky Sport 3 NewZealand",
     "Poster": "https://i.postimg.cc/8Pz0Gq2h/Sky-Sports-New-Zealand.png",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=sky3nz&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=sky3nz&e=.m3u8"
   },
   {
     "Title": "PTV Sports HD",
@@ -723,174 +723,174 @@
     "Title": "Ten Sports HD",
     "Poster": "https://i.postimg.cc/mDVy6r2K/Ten-Sports-HD.png",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=tenspk&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=tenspk&e=.m3u8"
   },
   {
     "Title": "Willow Xtra",
     "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHXoodvGh35c3rgVRpkqq0owDdf9wZLjFLg&usqp=CAU",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=willowxtra&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=willowxtra&e=.m3u8"
   },
   {
     "Title": "Willow USA",
     "Poster": "https://i.postimg.cc/1tJDK59X/Willow-by-Cricbuzz.png",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=willowusa&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=willowusa&e=.m3u8"
   },
   {
     "Title": "Eurosports 1",
     "Poster": "https://image.discovery.indazn.com/eu/v2/us/image?id=997307973435_image-header_pDach_1661948898000",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=eurosp1&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=eurosp1&e=.m3u8"
   },
   {
     "Title": "Eurosports 2",
     "Poster": "https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=eurosp2&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=eurosp2&e=.m3u8"
   },
   {
     "Title": "Laliga",
     "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1sfb4ZRejIqqbKPeGuLR3cUXbKJRJ-sAdA&usqp=CAU",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=laligauk&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=laligauk&e=.m3u8"
   },
   {
     "Title": "Sky Sports Mix",
     "Poster": "https://i.postimg.cc/kXkKsHdQ/Sky-Sports-Mix.png",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=skysmixx&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=skysmixx&e=.m3u8"
   },
   {
     "Title": "ESPN",
     "Poster": "https://i.postimg.cc/cHbrHKxR/ESPN.png",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=espnusa&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=espnusa&e=.m3u8"
   },
   {
     "Title": "Super Sport Cricket",
     "Poster": "https://i.postimg.cc/YCMDkDHs/Super-Cricket.png",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=supercricket&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=supercricket&e=.m3u8"
   },
   {
     "Title": "Super Sports Actions",
     "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLqjac8hSpBW6zqorI6grSdPCdWC_KPBMZqQ&usqp=CAU",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=superactions&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=superactions&e=.m3u8"
   },
   {
     "Title": "Super Sports Meximo",
     "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLqjac8hSpBW6zqorI6grSdPCdWC_KPBMZqQ&usqp=CAU",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=supermeximo&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=supermeximo&e=.m3u8"
   },
   {
     "Title": "Super Sports Variety 1",
     "Poster": "https://icdb.tv/images/3e96a21c2f3799a280ae9f844c8f54de.jpg",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=hdchnl6&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=hdchnl6&e=.m3u8"
   },
   {
     "Title": "Super Sports Variety 2",
     "Poster": "https://i.postimg.cc/Zqbb02VF/download-1.jpg",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=hdchnl7&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=hdchnl7&e=.m3u8"
   },
   {
     "Title": "Super Sports Variety 3",
     "Poster": "https://i.postimg.cc/c4GJPV03/download-1.jpg",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=hdchnl8&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=hdchnl8&e=.m3u8"
   },
   {
     "Title": "Super Sports Variety 4",
     "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mxTeBUqTo3bWTQedpnsIjbQcoehEFmmsag&usqp=CAU",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=hdchnl9&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=hdchnl9&e=.m3u8"
   },
   {
     "Title": "Super Sports Rugby",
     "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3GmbLygviPjg_DFdSVCOtWkiDeHgociR-nA&usqp=CAU",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=superrugby&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=superrugby&e=.m3u8"
   },
   {
     "Title": "Super Sports Football",
     "Poster": "https://i.postimg.cc/JhSf49vv/football-6.png",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=superfootball&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=superfootball&e=.m3u8"
   },
   {
     "Title": "Sky Sports Premier League",
     "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgc-13RKxXoXv6Snq8h_MqypqB64i4LPdKQ&s",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=superpremier&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=superpremier&e=.m3u8"
   },
   {
     "Title": "Super Sports Laliga",
     "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4FMW3X9uHqdqXNukIOmlxdOeIHU-MuySsA&usqp=CAU",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=superlaliga&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=superlaliga&e=.m3u8"
   },
   {
     "Title": "Super Sport Golf",
     "Poster": "https://supersport-cms-prod.azureedge.net/media/3q3luzsn/golf-7.png?width=200",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=supergolf&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=supergolf&e=.m3u8"
   },
   {
     "Title": "Fox Sports 1",
     "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh0CifTNBo9BT1RMhL--I5iTUuebeP4c8xpmIwouElUGr00If6e-sRS2zX&s=10",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=usafox1&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=usafox1&e=.m3u8"
   },
   {
     "Title": "Fox Sports 2",
     "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxFpEqOQEnRSPwQvB1uKPcSNkABSU3nZhYRBlCayV1JA&s",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=usafox2&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=usafox2&e=.m3u8"
   },
   {
     "Title": "Viaplay Sports 1",
     "Poster": "https://static.wikia.nocookie.net/logopedia/images/b/bb/Viaplay_Sports_1_Stacked.svg",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=premieruk&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=premieruk&e=.m3u8"
   },
   {
     "Title": "Premier Sports 2",
     "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ1s6SRm1TZ021A9MezEZ6bRkD0nrbgkxRMw&usqp=CAU",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=hdchnl12&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=hdchnl12&e=.m3u8"
   },
   {
     "Title": "TNT Sports 1",
     "Poster": "https://i.postimg.cc/qRLxZxGk/TNT-Sports-1.png",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=bbtsp1&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=bbtsp1&e=.m3u8"
   },
   {
     "Title": "TNT Sports 3",
     "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-slAmiuwb0txewUaaJYccF2y_h9qjM3JSDw&s",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=bbtsp2&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=bbtsp2&e=.m3u8"
   },
   {
     "Title": "TNT Sports 3",
     "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCMg7Vpn75AmWok7YNJV7l7p3g37oakkYflA&s",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=bbtsp3&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=bbtsp3&e=.m3u8"
   },
   {
     "Title": "TNT Sports 4",
     "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbpBiDKJ3KA1DGspqmezt54f5ThT3BGwHrRA&s",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=bbtepsn&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=bbtepsn&e=.m3u8"
   },
   {
     "Title": "TNT Sports 5",
     "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXgaPK26MiksnDICnvYKxQMOciDd8W8q3TA&s",
     "Type": "sports",
-    "Url": "https://madplay.live/player/play/?https://madplay.live/hls/crichd/index.php?id=hdchnl10&e=.m3u8"
+    "Url": "https://madstream.one/player/play.php?https://madstream.one/hls/crichd/index.php?id=hdchnl10&e=.m3u8"
   }
 ]
