@@ -10,5 +10,12 @@
         "origin": "https://origin.com/",
         "api_key": "1234xdsdhs"
       }
+  },
+ {
+      "tvurl": "https://rogplay.site/api/allmovie/series?id=${tmdb}&season=${season}&episode=${episode}",
+      "movieurl": "https://rogplay.site/api/allmovie/movies?id=${tmdb}",
+      "title": "title",
+      "url": "file",
+      "id": "id"
   }
 ]
