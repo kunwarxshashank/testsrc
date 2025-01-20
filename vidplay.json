@@ -1,0 +1,8 @@
+[  {
+      "tvurl": "https://rogplay.site/api/nsapi/vidplay?url=https://vidlink.pro/tv/${tmdb}/${season}/${episode}",
+      "movieurl": "https://rogplay.site/api/nsapi/vidplay?url=https://vidlink.pro/movie/${tmdb}",
+      "title": "title",
+      "url": "url",
+      "id": "id"
+  }
+]
