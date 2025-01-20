@@ -11,6 +11,13 @@
         "api_key": "1234xdsdhs"
       }
   },
+  {
+      "tvurl": "https://rogplay.site/api/nsapi/vidplay?url=https://vidlink.pro/tv/${tmdb}/${season}/${episode}?ads=0",
+      "movieurl": "https://rogplay.site/api/nsapi/vidplay?url=https://vidlink.pro/movie/${tmdb}?ads=0",
+      "title": "title",
+      "url": "url",
+      "id": "id",
+  },
  {
       "tvurl": "https://rogplay.site/api/allmovie/series?id=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://rogplay.site/api/allmovie/movies?id=${tmdb}",
