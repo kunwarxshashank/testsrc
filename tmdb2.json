@@ -12,8 +12,8 @@
       }
   },
   {
-      "tvurl": "https://rogplay.site/api/nsapi/vidplay?url=https://vidlink.pro/tv/${tmdb}/${season}/${episode}?ads=0",
-      "movieurl": "https://rogplay.site/api/nsapi/vidplay?url=https://vidlink.pro/movie/${tmdb}?ads=0",
+      "tvurl": "https://rogplay.site/api/nsapi/vidplay?url=https://vidlink.pro/tv/${tmdb}/${season}/${episode}",
+      "movieurl": "https://rogplay.site/api/nsapi/vidplay?url=https://vidlink.pro/movie/${tmdb}",
       "title": "title",
       "url": "url",
       "id": "id",
