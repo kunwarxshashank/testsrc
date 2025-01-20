@@ -6,6 +6,13 @@
     "type": "cinema",
     "description": "to wait for their existence Hello world how are you have"
   },
+    {
+    "title": "VIDPLAY",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVAAFAlzWJHJmdm9uVmdddhc8MWbYxB2r0aQ&s",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/testsrc/refs/heads/main/vidplay.json",
+    "type": "cinema",
+    "description": "to wait for their existence Hello world how are you have"
+  },
   {
     "title": "ROG SPORTS",
     "logo": "https://madstream.one/m3uplaylist/logos/rogsports.png",
